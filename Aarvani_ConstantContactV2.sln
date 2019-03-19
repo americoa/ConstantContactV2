@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstantContactV2", "ConstantContactV2\ConstantContactV2.csproj", "{E82A76C7-79D0-43D8-9CF6-117BC02BCED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstantContactV2Test", "ConstantContactV2Test\ConstantContactV2Test.csproj", "{D9C4C785-12F9-4CAB-91D6-1DE0A975C5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E82A76C7-79D0-43D8-9CF6-117BC02BCED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82A76C7-79D0-43D8-9CF6-117BC02BCED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82A76C7-79D0-43D8-9CF6-117BC02BCED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82A76C7-79D0-43D8-9CF6-117BC02BCED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C4C785-12F9-4CAB-91D6-1DE0A975C5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C4C785-12F9-4CAB-91D6-1DE0A975C5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C4C785-12F9-4CAB-91D6-1DE0A975C5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C4C785-12F9-4CAB-91D6-1DE0A975C5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A581D777-608C-4BB3-B6E3-FF7E0AF51A3A}
+	EndGlobalSection
+EndGlobal
